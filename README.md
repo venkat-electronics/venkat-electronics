@@ -67,12 +67,6 @@ ECE Graduate from MVJ College of Engineering passionate about building end-to-en
 
 ---
 
-## 🏆 GitHub Trophies
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=venkat-electronics&theme=radical&no-frame=true&margin-w=15&margin-h=15)
-
----
-
 ## 📈 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=venkat-electronics&theme=radical&hide_border=true)
