@@ -59,11 +59,11 @@ ECE Graduate from MVJ College of Engineering passionate about building end-to-en
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/venkatareddy-rd](https://www.linkedin.com/in/venkatareddy-r-d-609321269/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvenky480@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/venkat-electronics](https://github.com/venkat-electronics))
+🔗 LinkedIn: https://linkedin.com/in/venkatareddy-r-d-609321269  
+🐙 GitHub: https://github.com/venkat-electronics  
+📧 Email: rvenky480@gmail.com
 
 ---
 
