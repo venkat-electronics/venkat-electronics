@@ -59,21 +59,11 @@ ECE Graduate from MVJ College of Engineering passionate about building end-to-en
 
 ---
 
-## 📊 GitHub Stats
-
-![Venkatareddy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=venkat-electronics&show_icons=true&theme=radical&hide_title=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=venkat-electronics&layout=compact&theme=radical&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=venkat-electronics&theme=radical)
-
----
-
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/venkatareddy-rd)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:venkatareddy@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/venkat-electronics)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/venkatareddy-rd](https://www.linkedin.com/in/venkatareddy-r-d-609321269/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rvenky480@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/venkat-electronics](https://github.com/venkat-electronics))
 
 ---
 
