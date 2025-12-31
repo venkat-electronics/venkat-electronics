@@ -1,8 +1,8 @@
-# Hi there, I'm Gamana! 👋
+# Hi there, I'm VENKATAREDDY R D! 👋
 
-Enthusiastic developer exploring **Web Development**, **Python**, **Django**, and **React**.  
-Interested in **Full-Stack Development** & **Cloud Technologies**.  
-Currently learning **Advanced Django + REST APIs + DevOps tools**.  
+Enthusiastic developer exploring **Java**, **Python**, **Django**, and **React**.  
+Interested in **Full-Stack Development** .  
+Currently learning **Advanced Django + REST APIs + java + SpringBoot**.  
 Looking to collaborate on open-source projects & innovative ideas.  
 Passionate about software development, problem solving, and building impactful projects.
 
@@ -11,9 +11,9 @@ Passionate about software development, problem solving, and building impactful p
 ## 📊 About Me
 
 - 🔭 **Currently Working On**: Full-stack applications with Django and React.
-- 🌱 **Currently Learning**: Advanced Django, REST APIs, DevOps tools (Docker, AWS).
+- 🌱 **Currently Learning**: Django, REST APIs, Java,SpringBoot, spring framework,Html,css, javascrript.
 - 👯 **Open to Collaborate On**: Open-source projects, innovative web apps, cloud-based solutions.
-- 💬 **Ask Me About**: Python, Django, React, Full-Stack Development.
+- 💬 **Ask Me About**: Python, Django, React, Full-Stack Development,Html,Css,Javascript.
 - ⚡ **Fun Fact**: I love turning complex problems into simple, elegant code!
 
 ---
@@ -21,13 +21,13 @@ Passionate about software development, problem solving, and building impactful p
 ## 🛠️ Tech Stack
 
 ### Languages
-- **Python** | **JavaScript** | **Java**
+- **Java** | **JavaScript** | **Python**
 
 ### Frameworks & Libraries
-- **Django** | **React** | **Redux** | **Bootstrap**
+- **Django** | **React**  | **Bootstrap**
 
 ### Databases & Tools
-- **MySQL** | **PostgreSQL** | **SQLite**
+- **MySQL** | **SQLite**
 - **Git** | **GitHub** | **VS Code**
 
 ---
@@ -53,22 +53,21 @@ Passionate about software development, problem solving, and building impactful p
 
 ## 📈 GitHub Stats
 
-![Gamana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gamana&show_icons=true&theme=radical&hide_border=true)
+![Venkatareddy R D GitHub Stats](https://github-readme-stats.vercel.app/api?username=Venkatareddy R D&show_icons=true&theme=radical&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamana&layout=compact&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VENKATAREDDY R D&layout=compact&theme=radical&hide_border=true)
 
 ---
 
 ## 🤝 Connect With Me
 
-- 📧 Email: gamana@example.com (replace with your email)
-- 💼 LinkedIn: [Your LinkedIn](https://linkedin.com/in/gamana)
-- 🐦 Twitter: [@yourhandle](https://twitter.com/yourhandle)
+- 📧 Email: rvenky480@gmail.com (replace with your email)
+- 💼 LinkedIn: [Your LinkedIn](linkedin.com/in/venkatareddy-r-d-609321269)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gamana&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Venkatareddy R D&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
 ---
